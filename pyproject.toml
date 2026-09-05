@@ -1,0 +1,14 @@
+[project]
+name = "classifhear"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "librosa>=0.11.0",
+    "matplotlib>=3.11.1",
+    "numpy>=2.4.6",
+    "pandas>=3.0.5",
+    "soundata>=1.0.1",
+    "torch>=2.14.0",
+]
